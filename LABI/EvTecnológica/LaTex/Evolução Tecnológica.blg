@@ -1,9 +1,0 @@
-[0] Config.pm:302> INFO - This is Biber 2.9
-[0] Config.pm:305> INFO - Logfile is 'EvoluÃ§Ã£o TecnolÃ³gica.blg'
-[21] biber:313> INFO - === sex nov 29, 2019, 01:16:03
-[131] Biber.pm:371> INFO - Reading '/home/rafa/Desktop/Evolução Tecnológica.bcf'
-[194] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[200] Utils.pm:169> WARN - The file '/home/rafa/Desktop/Evolução Tecnológica.bcf' does not contain any citations!
-[205] bbl.pm:617> INFO - Writing 'EvoluÃ§Ã£o TecnolÃ³gica.bbl' with encoding 'UTF-8'
-[205] bbl.pm:720> INFO - Output to EvoluÃ§Ã£o TecnolÃ³gica.bbl
-[206] Biber.pm:110> INFO - WARNINGS: 1
