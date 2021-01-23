@@ -1,0 +1,140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/Projeto/Fase3/simulation/qsim
+Efase3
+Z1 w1591137871
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+R0
+Z8 8DataPath.vho
+Z9 FDataPath.vho
+l0
+L34
+VCjZ2an`V6<2VV[W?OIbnW2
+!s100 [;JKQKeN^]NA^5G`GS7460
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1591137872
+!i10b 1
+Z12 !s108 1591137872.000000
+Z13 !s90 -work|work|DataPath.vho|
+Z14 !s107 DataPath.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 5 fase3 0 22 CjZ2an`V6<2VV[W?OIbnW2
+l56
+L41
+V4TAafdP?mdMCjedY:UURY2
+!s100 :BXRF;:iXP_jW0k1eSXOQ0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+vFase3
+Z17 !s110 1591137856
+!i10b 1
+!s100 0l?JE;SRTiAQhfV?TWAcV0
+I]9^fLiYhJJ_1RFi`KzBG:2
+Z18 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1591137855
+8DataPath.vo
+FDataPath.vo
+L0 31
+Z19 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z20 !s108 1591137856.000000
+!s107 DataPath.vo|
+!s90 -work|work|DataPath.vo|
+!i113 1
+R15
+Z21 tCvgOpt 0
+n@fase3
+Efase3_vhd_vec_tst
+Z22 w1591137870
+R5
+R6
+R0
+Z23 8Teste_DMemory.vwf.vht
+Z24 FTeste_DMemory.vwf.vht
+l0
+L31
+VM9aJO2FQYfeTMhSSNR]H:2
+!s100 K>>Uee?Bdcc[W9L8_;ae82
+R10
+32
+R11
+!i10b 1
+R12
+Z25 !s90 -work|work|Teste_DMemory.vwf.vht|
+Z26 !s107 Teste_DMemory.vwf.vht|
+!i113 1
+R15
+R16
+Afase3_arch
+R5
+R6
+Z27 DEx4 work 17 fase3_vhd_vec_tst 0 22 M9aJO2FQYfeTMhSSNR]H:2
+l44
+L33
+Z28 VbfVGU?gdOW3QJG[4fU0fL3
+Z29 !s100 8NHFMj_eW7D[h74d5iN170
+R10
+32
+R11
+!i10b 1
+R12
+R25
+R26
+!i113 1
+R15
+R16
+vFase3_vlg_vec_tst
+R17
+!i10b 1
+!s100 Ie>JLVooL6SCG6;U7V]MI3
+IPL_0>kDmHMeY0o178WkaQ1
+R18
+R0
+w1591137854
+8Teste_DMemory.vwf.vt
+FTeste_DMemory.vwf.vt
+L0 29
+R19
+r1
+!s85 0
+31
+R20
+!s107 Teste_DMemory.vwf.vt|
+!s90 -work|work|Teste_DMemory.vwf.vt|
+!i113 1
+R15
+R21
+n@fase3_vlg_vec_tst

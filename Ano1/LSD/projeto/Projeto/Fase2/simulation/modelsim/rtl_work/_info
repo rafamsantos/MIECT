@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/Projeto/Fase2/simulation/modelsim
+Econtrolunit
+Z1 w1590868549
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/intelFPGA/Projeto/Fase2/ControlUnit.vhd
+Z6 FC:/intelFPGA/Projeto/Fase2/ControlUnit.vhd
+l0
+L5
+VokD0Y8i@0k^IP1Ak]1zel2
+!s100 UF;:mdDA3<M:[:GdWTzE;3
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1591173950
+!i10b 1
+Z9 !s108 1591173949.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA/Projeto/Fase2/ControlUnit.vhd|
+Z11 !s107 C:/intelFPGA/Projeto/Fase2/ControlUnit.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z14 DEx4 work 11 controlunit 0 22 okD0Y8i@0k^IP1Ak]1zel2
+l26
+L21
+V3[_95NlR@lDLS9Z^EBb4[3
+!s100 UOR]J7AP_2UMVo5g=@FI90
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtrolunit_tb
+Z15 w1590893156
+R2
+R3
+R4
+R0
+Z16 8C:/intelFPGA/Projeto/Fase2/ControlUnit_Tb.vhd
+Z17 FC:/intelFPGA/Projeto/Fase2/ControlUnit_Tb.vhd
+l0
+L6
+VQl<zfQToAU<ha_^?2aW<31
+!s100 SL]APkGWZ]EzXSa[aOX[R3
+R7
+32
+Z18 !s110 1591174000
+!i10b 1
+Z19 !s108 1591174000.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase2/ControlUnit_Tb.vhd|
+Z21 !s107 C:/intelFPGA/Projeto/Fase2/ControlUnit_Tb.vhd|
+!i113 1
+Z22 o-work work
+R13
+Astimulus
+R14
+R2
+R3
+R4
+DEx4 work 14 controlunit_tb 0 22 Ql<zfQToAU<ha_^?2aW<31
+l26
+L9
+Vi3ofEVf?_U^AOL02LD4zD1
+!s100 SNYEhP:LA6F4MDVT>8;6T3
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R22
+R13

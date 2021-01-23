@@ -1,0 +1,20 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Regs.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Mux2_1.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/ALU.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/DMemory.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/IMemory.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/SignExtend.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/PC.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Reg.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Dec3_8.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Mux8_1.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/ControlUnit.vhd}
+vcom -93 -work work {C:/intelFPGA/Projeto/Fase3/Fase3.vhd}
+

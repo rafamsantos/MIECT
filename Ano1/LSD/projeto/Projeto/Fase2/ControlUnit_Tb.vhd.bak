@@ -1,0 +1,8 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.all;
+use IEEE.NUMERIC_STD.all;
+
+entity ControlUnity_Tb is 
+end ControlUnit_Tb;
+
+architecture stimulus of ControlUnit_Tb is 

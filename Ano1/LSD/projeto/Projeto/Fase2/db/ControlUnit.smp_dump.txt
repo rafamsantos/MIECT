@@ -1,0 +1,9 @@
+
+State Machine - |ControlUnit|ps
+Name ps.WriteMem ps.regUpdate ps.execute ps.decode ps.fetch ps.rst 
+ps.rst 0 0 0 0 0 0 
+ps.fetch 0 0 0 0 1 1 
+ps.decode 0 0 0 1 0 1 
+ps.execute 0 0 1 0 0 1 
+ps.regUpdate 0 1 0 0 0 1 
+ps.WriteMem 1 0 0 0 0 1 

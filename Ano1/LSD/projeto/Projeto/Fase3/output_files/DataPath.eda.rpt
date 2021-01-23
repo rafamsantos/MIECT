@@ -1,0 +1,92 @@
+EDA Netlist Writer report for DataPath
+Tue Jun 02 23:45:51 2020
+Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; EDA Netlist Writer Summary                                    ;
++---------------------------+-----------------------------------+
+; EDA Netlist Writer Status ; Failed - Tue Jun 02 23:45:51 2020 ;
+; Revision Name             ; DataPath                          ;
+; Top-level Entity Name     ; IMemory                           ;
+; Family                    ; Cyclone IV E                      ;
++---------------------------+-----------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+    Info: Copyright (C) 2017  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel FPGA IP License Agreement, or other applicable license
+    Info: agreement, including, without limitation, that your use is for
+    Info: the sole purpose of programming logic devices manufactured by
+    Info: Intel and sold by Intel or its authorized distributors.  Please
+    Info: refer to the applicable agreement for further details.
+    Info: Processing started: Tue Jun 02 23:45:50 2020
+Info: Command: quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off DataPath -c DataPath --vector_source=C:/intelFPGA/Projeto/Fase3/Teste_IMemory.vwf --testbench_file=C:/intelFPGA/Projeto/Fase3/simulation/qsim/Teste_IMemory.vwf.vht
+Info (119006): Selected device EP4CE115F29C7 for design "DataPath"
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Error (201009): Bus port "RA" specified in vector source file has width of 3, which does not match width 4 of top level port of same name
+Warning (201005): Ignoring output pin "RD" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[15]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[14]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[13]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[12]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[11]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[10]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[9]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[8]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[7]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[6]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[5]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[4]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[3]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[2]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[1]" in vector source file when writing test bench files
+Warning (201005): Ignoring output pin "RD[0]" in vector source file when writing test bench files
+Info (201002): Generated VHDL Test Bench File C:/intelFPGA/Projeto/Fase3/simulation/qsim/Teste_IMemory.vwf.vht for simulation
+Error: Quartus Prime EDA Netlist Writer was unsuccessful. 1 error, 18 warnings
+    Error: Peak virtual memory: 4660 megabytes
+    Error: Processing ended: Tue Jun 02 23:45:51 2020
+    Error: Elapsed time: 00:00:01
+    Error: Total CPU time (on all processors): 00:00:01
+
+

@@ -1,0 +1,7 @@
+{
+	"common_dir" : "C:/intelFPGA/Projeto/Fase1V2/",
+	"acds_version" : "Version 17.1.0",
+	"platform" : "windows",
+	"os" : "Windows 10",
+	"qpf" : "DataPath.qpf"
+}

@@ -1,0 +1,598 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/Projeto/Fase3/simulation/modelsim
+Ealu
+Z1 w1590893468
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/intelFPGA/Projeto/Fase3/ALU.vhd
+Z6 FC:/intelFPGA/Projeto/Fase3/ALU.vhd
+l0
+L6
+VJhno6_>;_@gCzo2I`GiR13
+!s100 gY_P<?cf[nM:2F?W^R_Vz2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1591174157
+!i10b 1
+Z9 !s108 1591174157.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/ALU.vhd|
+Z11 !s107 C:/intelFPGA/Projeto/Fase3/ALU.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z14 DEx4 work 3 alu 0 22 Jhno6_>;_@gCzo2I`GiR13
+l20
+L15
+VnGo>iAlhgk_Q^=SGWVi8B2
+!s100 Zd7c4>KEhN[ZlE>J5U6W20
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtrolunit
+Z15 w1590881534
+R2
+R3
+R4
+R0
+Z16 8C:/intelFPGA/Projeto/Fase3/ControlUnit.vhd
+Z17 FC:/intelFPGA/Projeto/Fase3/ControlUnit.vhd
+l0
+L5
+VVCCzkLWd2ge9eoGg:U1V?0
+!s100 UF;:mdDA3<M:[:GdWTzE;3
+R7
+32
+Z18 !s110 1591174174
+!i10b 1
+Z19 !s108 1591174174.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/ControlUnit.vhd|
+Z21 !s107 C:/intelFPGA/Projeto/Fase3/ControlUnit.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+Z22 DEx4 work 11 controlunit 0 22 VCCzkLWd2ge9eoGg:U1V?0
+l26
+L21
+VBTf[F[BFESfJYH66ok2e02
+!s100 UOR]J7AP_2UMVo5g=@FI90
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Edatapath
+Z23 w1590884948
+R2
+R3
+R4
+R0
+Z24 8C:/intelFPGA/Projeto/Fase3/DataPath.vhd
+Z25 FC:/intelFPGA/Projeto/Fase3/DataPath.vhd
+l0
+L5
+VYEmWM209@GKU>D>9`3JP`3
+!s100 5:5Yi`IZ>:Y7GadH^Rl_I1
+R7
+32
+Z26 !s110 1591174175
+!i10b 1
+Z27 !s108 1591174175.000000
+Z28 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/DataPath.vhd|
+Z29 !s107 C:/intelFPGA/Projeto/Fase3/DataPath.vhd|
+!i113 1
+R12
+R13
+Ashell
+Z30 DEx4 work 4 regs 0 22 kXe5:BUbN4Yd>c[5f8o4N3
+Z31 DEx4 work 10 signextend 0 22 ^dP8:lPQ66PXOKmZNb:gX2
+Z32 DEx4 work 7 imemory 0 22 I8clTM1W6JoQ9A_SWd8>c2
+Z33 DEx4 work 7 dmemory 0 22 Kzk??]03CT=90ld6V4<;[1
+R14
+Z34 DEx4 work 6 mux2_1 0 22 @lJ[O3OhPfhQ6EZc3FcNV2
+Z35 DEx4 work 2 pc 0 22 M3M7BWQ3f6j0mjEgX];ez2
+R2
+R3
+R4
+DEx4 work 8 datapath 0 22 YEmWM209@GKU>D>9`3JP`3
+l29
+L18
+VBLc5C=z4^FGg[R:U[SHH`1
+!s100 abVS:a2FNMzS4^<fH9dEP3
+R7
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
+Edec3_8
+Z36 w1590888070
+R2
+R3
+R4
+R0
+Z37 8C:/intelFPGA/Projeto/Fase3/Dec3_8.vhd
+Z38 FC:/intelFPGA/Projeto/Fase3/Dec3_8.vhd
+l0
+L5
+VT^XoR4^WQUMThjRZ;C3]J2
+!s100 m]IPPU67YjRgQ6ng9cQ5L0
+R7
+32
+Z39 !s110 1591174158
+!i10b 1
+Z40 !s108 1591174158.000000
+Z41 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Dec3_8.vhd|
+Z42 !s107 C:/intelFPGA/Projeto/Fase3/Dec3_8.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+Z43 DEx4 work 6 dec3_8 0 22 T^XoR4^WQUMThjRZ;C3]J2
+l13
+L12
+VP;fTZ[kznOdDGU2o1GN<l1
+!s100 IW9h4eQVM:Y3UhzNBV2@Y1
+R7
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R12
+R13
+Edmemory
+Z44 w1590877705
+R2
+R3
+R4
+R0
+Z45 8C:/intelFPGA/Projeto/Fase3/DMemory.vhd
+Z46 FC:/intelFPGA/Projeto/Fase3/DMemory.vhd
+l0
+L5
+VKzk??]03CT=90ld6V4<;[1
+!s100 4KE5BNS0aL0Lz7R>M=P8K3
+R7
+32
+Z47 !s110 1591174159
+!i10b 1
+Z48 !s108 1591174159.000000
+Z49 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/DMemory.vhd|
+Z50 !s107 C:/intelFPGA/Projeto/Fase3/DMemory.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+R33
+l22
+L15
+VkUk:89>EOZiI<B2kGRNLM2
+!s100 ITPh[C?[9RnncPk=MX?GF0
+R7
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R12
+R13
+Efase3
+Z51 w1590884843
+R2
+R3
+R4
+R0
+Z52 8C:/intelFPGA/Projeto/Fase3/Fase3.vhd
+Z53 FC:/intelFPGA/Projeto/Fase3/Fase3.vhd
+l0
+L5
+V[MRkIUK9kiaVG]N:;MCRG3
+!s100 71QR;H9=g^]afa;V8[NH[0
+R7
+32
+Z54 !s110 1591174176
+!i10b 1
+Z55 !s108 1591174176.000000
+Z56 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Fase3.vhd|
+Z57 !s107 C:/intelFPGA/Projeto/Fase3/Fase3.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R30
+R31
+R32
+R33
+R14
+R34
+R35
+R22
+R2
+R3
+R4
+Z58 DEx4 work 5 fase3 0 22 [MRkIUK9kiaVG]N:;MCRG3
+l25
+L11
+VTS30@>LWdW497nWSf==i70
+!s100 j^TYbcm:[ANY8Z;iAE3nT1
+R7
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R12
+R13
+Efase3_tb
+Z59 w1590889414
+R2
+R3
+R4
+R0
+Z60 8C:/intelFPGA/Projeto/Fase3/Fase3_Tb.vhd
+Z61 FC:/intelFPGA/Projeto/Fase3/Fase3_Tb.vhd
+l0
+L5
+VQ@1BDPE[SYQ_iRWKogA8=0
+!s100 R[NX2@mnYY6fj7dYQ1]X?3
+R7
+32
+Z62 !s110 1591174177
+!i10b 1
+Z63 !s108 1591174177.000000
+Z64 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Fase3_Tb.vhd|
+Z65 !s107 C:/intelFPGA/Projeto/Fase3/Fase3_Tb.vhd|
+!i113 1
+R12
+R13
+Astimulus
+R58
+R2
+R3
+R4
+DEx4 work 8 fase3_tb 0 22 Q@1BDPE[SYQ_iRWKogA8=0
+l12
+L8
+V20Xe@S;ASX>B3NkYJk8;70
+!s100 _87?ccMF`NmeC3L=W1Ylk0
+R7
+32
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R12
+R13
+Eimemory
+Z66 w1590884975
+R2
+R3
+R4
+R0
+Z67 8C:/intelFPGA/Projeto/Fase3/IMemory.vhd
+Z68 FC:/intelFPGA/Projeto/Fase3/IMemory.vhd
+l0
+L5
+VI8clTM1W6JoQ9A_SWd8>c2
+!s100 8TM^hAN1I_J@0iEbc^lcC3
+R7
+32
+Z69 !s110 1591174161
+!i10b 1
+Z70 !s108 1591174160.000000
+Z71 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/IMemory.vhd|
+Z72 !s107 C:/intelFPGA/Projeto/Fase3/IMemory.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+R32
+l20
+L15
+VzOl`S`_dJF[MZ=2dG<J:10
+!s100 <02?0agb=?zA47AeShOJS3
+R7
+32
+R69
+!i10b 1
+R70
+R71
+R72
+!i113 1
+R12
+R13
+Emux2_1
+Z73 w1590609052
+R3
+R4
+R0
+Z74 8C:/intelFPGA/Projeto/Fase3/Mux2_1.vhd
+Z75 FC:/intelFPGA/Projeto/Fase3/Mux2_1.vhd
+l0
+L4
+V@lJ[O3OhPfhQ6EZc3FcNV2
+!s100 jKNRSmniO2eY=4SaL0lTl2
+R7
+32
+R69
+!i10b 1
+Z76 !s108 1591174161.000000
+Z77 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Mux2_1.vhd|
+Z78 !s107 C:/intelFPGA/Projeto/Fase3/Mux2_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+R34
+l13
+L12
+VV7fie?24;aoTR>k8?Bo630
+!s100 ]cR>0b^zW<PGWCf36CRBc3
+R7
+32
+R69
+!i10b 1
+R76
+R77
+R78
+!i113 1
+R12
+R13
+Emux8_1
+Z79 w1590888116
+R2
+R3
+R4
+R0
+Z80 8C:/intelFPGA/Projeto/Fase3/Mux8_1.vhd
+Z81 FC:/intelFPGA/Projeto/Fase3/Mux8_1.vhd
+l0
+L5
+V1P?1M=R3@_BS^bB9W[K[S3
+!s100 Y4l@6_aL<8MdJ[`PfT:@j0
+R7
+32
+Z82 !s110 1591174162
+!i10b 1
+Z83 !s108 1591174162.000000
+Z84 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Mux8_1.vhd|
+Z85 !s107 C:/intelFPGA/Projeto/Fase3/Mux8_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+Z86 DEx4 work 6 mux8_1 0 22 1P?1M=R3@_BS^bB9W[K[S3
+l20
+L19
+Vei;A9S4dIXj`jliH70GGE0
+!s100 _;>ZA9J2L=FojeWa?ic9Q0
+R7
+32
+R82
+!i10b 1
+R83
+R84
+R85
+!i113 1
+R12
+R13
+Epc
+Z87 w1590807125
+R2
+R3
+R4
+R0
+Z88 8C:/intelFPGA/Projeto/Fase3/PC.vhd
+Z89 FC:/intelFPGA/Projeto/Fase3/PC.vhd
+l0
+L5
+VM3M7BWQ3f6j0mjEgX];ez2
+!s100 TM^:6aH[eXB9j@U6N[H:D1
+R7
+32
+Z90 !s110 1591174169
+!i10b 1
+Z91 !s108 1591174169.000000
+Z92 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/PC.vhd|
+Z93 !s107 C:/intelFPGA/Projeto/Fase3/PC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+R35
+l15
+L13
+VYVhIClkLm1>=dLYSze;Ek3
+!s100 ?lBX4BX`a[ZUS;o94FGJ;1
+R7
+32
+R90
+!i10b 1
+R91
+R92
+R93
+!i113 1
+R12
+R13
+Ereg
+Z94 w1590709280
+R2
+R3
+R4
+R0
+Z95 8C:/intelFPGA/Projeto/Fase3/Reg.vhd
+Z96 FC:/intelFPGA/Projeto/Fase3/Reg.vhd
+l0
+L5
+V1FM@2;iI68bXee2mc_7ai2
+!s100 7MYR@I:K5^zahM;0H2N0Q3
+R7
+32
+Z97 !s110 1591174170
+!i10b 1
+Z98 !s108 1591174170.000000
+Z99 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Reg.vhd|
+Z100 !s107 C:/intelFPGA/Projeto/Fase3/Reg.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+Z101 DEx4 work 3 reg 0 22 1FM@2;iI68bXee2mc_7ai2
+l16
+L15
+V[E1AjCYmeV>2`DDaO:@163
+!s100 cfR0<[2nzTkXYHIgza>ZH2
+R7
+32
+R97
+!i10b 1
+R98
+R99
+R100
+!i113 1
+R12
+R13
+Eregs
+Z102 w1590835391
+R3
+R4
+R0
+Z103 8C:/intelFPGA/Projeto/Fase3/Regs.vhd
+Z104 FC:/intelFPGA/Projeto/Fase3/Regs.vhd
+l0
+L4
+VkXe5:BUbN4Yd>c[5f8o4N3
+!s100 [RaE4W25KhX2GjNVSbL:P3
+R7
+32
+Z105 !s110 1591174171
+!i10b 1
+Z106 !s108 1591174171.000000
+Z107 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/Regs.vhd|
+Z108 !s107 C:/intelFPGA/Projeto/Fase3/Regs.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R86
+R101
+R2
+R43
+R3
+R4
+R30
+l19
+L16
+Vz<@A^cCgeMKoJfQk?TXCN0
+!s100 GePjK?TQ?SehkJRV_G0Hf2
+R7
+32
+R105
+!i10b 1
+R106
+R107
+R108
+!i113 1
+R12
+R13
+Esignextend
+Z109 w1590661337
+R3
+R4
+R0
+Z110 8C:/intelFPGA/Projeto/Fase3/SignExtend.vhd
+Z111 FC:/intelFPGA/Projeto/Fase3/SignExtend.vhd
+l0
+L4
+V^dP8:lPQ66PXOKmZNb:gX2
+!s100 >X^EDSQF[48@G1ZQ0RNFg1
+R7
+32
+Z112 !s110 1591174172
+!i10b 1
+R106
+Z113 !s90 -reportprogress|300|-work|work|C:/intelFPGA/Projeto/Fase3/SignExtend.vhd|
+Z114 !s107 C:/intelFPGA/Projeto/Fase3/SignExtend.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+R31
+l12
+L11
+V3kGKoP@`_2749kni3in=@3
+!s100 <EebTGk3f?0W?LoDJY89j1
+R7
+32
+R112
+!i10b 1
+R106
+R113
+R114
+!i113 1
+R12
+R13

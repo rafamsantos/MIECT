@@ -1,0 +1,41 @@
+Quartus Prime Archive log --	C:/intelFPGA/Projeto/Fase1V2/DataPath_tmp_archive.qarlog
+
+Archive:	C:/intelFPGA/Projeto/Fase1V2/DataPath_tmp_archive.qar
+Date:		Sun May 31 00:30:39 2020
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA/Projeto/Fase1V2/ALU.vhd
+C:/intelFPGA/Projeto/Fase1V2/DMemory.vhd
+C:/intelFPGA/Projeto/Fase1V2/DataPath.qpf
+C:/intelFPGA/Projeto/Fase1V2/DataPath.qsf
+C:/intelFPGA/Projeto/Fase1V2/DataPath.vhd
+C:/intelFPGA/Projeto/Fase1V2/Dec3_8.vhd
+C:/intelFPGA/Projeto/Fase1V2/IMemory.vhd
+C:/intelFPGA/Projeto/Fase1V2/Mux2_1.vhd
+C:/intelFPGA/Projeto/Fase1V2/Mux8_1.vhd
+C:/intelFPGA/Projeto/Fase1V2/PC.vhd
+C:/intelFPGA/Projeto/Fase1V2/Reg.vhd
+C:/intelFPGA/Projeto/Fase1V2/Regs.vhd
+C:/intelFPGA/Projeto/Fase1V2/SignExtend.vhd
+C:/intelFPGA/Projeto/Fase1V2/Test_Mux8_1.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_ALU.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_DMemory.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_IMemory.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_Mux2_1.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_Reg.vwf
+C:/intelFPGA/Projeto/Fase1V2/Teste_Regs.vwf
+C:/intelFPGA/Projeto/Fase1V2/teste_PC.vwf
+C:/intelFPGA/Projeto/Fase1V2/teste_dec3_8.vwf
+C:/intelFPGA/Projeto/Fase1V2/teste_signEx.vwf
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 24 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun May 31 00:30:41 2020
+Source archive file:	C:/intelFPGA/Projeto/Fase1V2/DataPath_tmp_archive.qar
+Archive was extracted into	C:/intelFPGA/Projeto/Fase3/
+		 - successfully.

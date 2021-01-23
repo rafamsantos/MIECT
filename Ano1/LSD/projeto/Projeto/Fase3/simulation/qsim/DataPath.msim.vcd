@@ -1,0 +1,54 @@
+$comment
+	File created using the following command:
+		vcd file DataPath.msim.vcd -direction
+$end
+$date
+	Tue Jun 02 23:44:32 2020
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module fase3_vhd_vec_tst $end
+$var wire 1 ! clk $end
+$var wire 1 " reset $end
+
+$scope module i1 $end
+$var wire 1 # gnd $end
+$var wire 1 $ vcc $end
+$var wire 1 % unknown $end
+$var wire 1 & devoe $end
+$var wire 1 ' devclrn $end
+$var wire 1 ( devpor $end
+$var wire 1 ) ww_devoe $end
+$var wire 1 * ww_devclrn $end
+$var wire 1 + ww_devpor $end
+$var wire 1 , ww_clk $end
+$var wire 1 - ww_reset $end
+$var wire 1 . \reset~input_o\ $end
+$var wire 1 / \clk~input_o\ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x!
+x"
+0#
+1$
+x%
+1&
+1'
+1(
+1)
+1*
+1+
+x,
+x-
+x.
+x/
+$end
+#1000000
