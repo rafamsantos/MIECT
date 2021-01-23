@@ -1,0 +1,12 @@
+CREATE TABLE tablename(
+	field1 TYPE1,
+	field2 TYPE2
+);
+INSERT INTO tablename
+VALUES (
+	"value1", "value2"
+);
+INSERT INTO tablename(field1)
+VALUES (
+	"value1"
+);
