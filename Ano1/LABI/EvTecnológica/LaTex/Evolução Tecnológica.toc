@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Inven\IeC {\c c}\IeC {\~a}o da M\IeC {\'a}quina de Imprensa}{2}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Inven\IeC {\c c}\IeC {\~a}o do microsc\IeC {\'o}pio}{4}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Inven\IeC {\c c}\IeC {\~a}o do motor a vapor}{6}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Inven\IeC {\c c}\IeC {\~a}o da bateria el\IeC {\'e}trica}{7}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Inven\IeC {\c c}\IeC {\~a}o da fotografia}{8}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Inven\IeC {\c c}\IeC {\~a}o do motor a combust\IeC {\~a}o}{10}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Inven\IeC {\c c}\IeC {\~a}o do autom\IeC {\'o}vel}{12}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Inven\IeC {\c c}\IeC {\~a}o do avi\IeC {\~a}o}{13}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Inven\IeC {\c c}\IeC {\~a}o do computador}{15}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Bibliografia}{18}{chapter.11}
