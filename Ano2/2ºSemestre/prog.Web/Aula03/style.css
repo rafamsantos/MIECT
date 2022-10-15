@@ -1,0 +1,39 @@
+<style>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right: 1px solid black;
+}
+
+li:last-child {
+    border-right: none;
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: blue;
+}
+
+.active:hover {
+    background-color: red;
+}
+
+.active {
+    background-color: #5caf50;
+}
+
+</style>
