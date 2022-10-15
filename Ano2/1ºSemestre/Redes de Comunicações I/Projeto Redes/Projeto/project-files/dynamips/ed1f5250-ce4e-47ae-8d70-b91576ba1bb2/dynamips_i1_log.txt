@@ -1,0 +1,36 @@
+Dec 11 07:34:46.485 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 11 07:34:46.487 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 50885.
+Dec 11 07:34:46.742 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 11 07:34:46.743 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\rafa_\Desktop\Projeto Redes\Projeto\project-files\dynamips 
+Dec 11 07:34:46.746 GENERAL: working_dir=C:\Users\rafa_\Desktop\Projeto Redes\Projeto\project-files\dynamips
+Dec 11 07:34:46.748 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\rafa_\Desktop\Projeto Redes\Projeto\project-files\dynamips\ed1f5250-ce4e-47ae-8d70-b91576ba1bb2 
+Dec 11 07:34:46.748 GENERAL: working_dir=C:\Users\rafa_\Desktop\Projeto Redes\Projeto\project-files\dynamips\ed1f5250-ce4e-47ae-8d70-b91576ba1bb2
+Dec 11 07:34:46.749 HYPERVISOR: exec_cmd: vm create R1 1 c7200 
+Dec 11 07:34:46.751 VM: VM R1 created.
+Dec 11 07:34:46.752 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5000 
+Dec 11 07:34:46.753 HYPERVISOR: exec_cmd: c7200 get_mac_addr R1 
+Dec 11 07:34:46.753 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:34:46.753 HYPERVISOR: exec_cmd: vm slot_add_binding R1 0 0 C7200-IO-FE 
+Dec 11 07:34:46.755 HYPERVISOR: exec_cmd: vm set_disk0 R1 0 
+Dec 11 07:34:46.755 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+Dec 11 07:34:46.756 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:34:46.756 HYPERVISOR: exec_cmd: vm set_idle_pc R1 0x60608040 
+Dec 11 07:34:46.759 HYPERVISOR: exec_cmd: vm set_ios R1 C:/Users/rafa_/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 11 07:34:46.759 HYPERVISOR: exec_cmd: c7200 set_mac_addr R1 ca01.5b18.0000 
+Dec 11 07:34:46.761 HYPERVISOR: exec_cmd: vm set_nvram R1 512 
+Dec 11 07:34:46.762 HYPERVISOR: exec_cmd: vm set_ram R1 512 
+Dec 11 07:34:46.762 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:34:46.763 HYPERVISOR: exec_cmd: vm slot_add_binding R1 1 0 PA-2FE-TX 
+Dec 11 07:34:51.039 HYPERVISOR: exec_cmd: nio create_udp udp-d6b27a42-bff6-4455-a80f-dba27963fcc6 20018 127.0.0.1 20019 
+Dec 11 07:34:51.296 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 0 udp-d6b27a42-bff6-4455-a80f-dba27963fcc6 
+Dec 11 07:34:51.297 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:34:51.364 HYPERVISOR: exec_cmd: nio create_udp udp-09ae6178-1030-4868-a166-6bf2bd1cc1ad 20022 127.0.0.1 20023 
+Dec 11 07:34:51.367 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 1 0 udp-09ae6178-1030-4868-a166-6bf2bd1cc1ad 
+Dec 11 07:34:51.368 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:55:56.542 HYPERVISOR: exec_cmd: vm set_ghost_status R1 2 
+Dec 11 07:55:56.543 HYPERVISOR: exec_cmd: vm set_ghost_file R1 C:\Users\rafa_\Desktop\Projeto Redes\Projeto\project-files\dynamips\c7200-adventerprisek9-mz.151-4.M2.image-512.ghost 
+Dec 11 07:55:56.544 HYPERVISOR: exec_cmd: vm get_status R1 
+Dec 11 07:55:56.545 HYPERVISOR: exec_cmd: vm set_config R1 configs\i1_startup-config.cfg 
+Dec 11 07:55:56.545 HYPERVISOR: exec_cmd: vm start R1 
+Dec 11 07:56:26.966 HYPERVISOR: exec_cmd: vm extract_config R1 
+Dec 11 07:56:56.975 HYPERVISOR: exec_cmd: vm extract_config R1 
