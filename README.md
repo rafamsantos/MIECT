@@ -1,2 +1,2 @@
-# MIECT
-MIECT projects and classes
+# MIECT + LECI
+MIECT+LECI projects and classes
