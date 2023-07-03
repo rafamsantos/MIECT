@@ -1,0 +1,49 @@
+Problema 2.1
+
+a)Entidade: Empresa
+atributos:
+relações: comercializa
+
+entidade: produtos
+atributos: código, nome, preço, taxa de IVA,stock
+relações: comercializado por
+
+Entidade: encomenda
+atributos: nº de encomenda, data realizada, fornecedor(único)
+relações: contém(1 ou mais produtos)
+
+entidade: fornecedor
+atributos:nome, nº de info fiscal, endereço,nº de fax,
+condições de pagamento
+relações: tipo, fornece encomendas
+
+entidade: tipo de fornecedor
+atributos: id, designação
+relação: tipo
+---------------------------------------------------------------------
+
+2.2)
+entidade: prescrição
+atributos: nº unico de presença, data
+relação:efetuada por médico
+
+entidade: médico
+atributos: nº de identificação, nome , especialidade
+relação: id atribuido por SNS
+
+entidade: paciente
+atributos: nº de utente, nome, data nascimento, endereço
+relação:
+
+entidade: fármaco
+atributos: nome comercial, fórmula, nome(único)
+relação: produzido por companhia farmaceutica
+
+entidade: farmaceutica
+atributos: nº registo nacional, nome, endereço, telefone
+relação:
+
+
+entidade: farmácia
+atributos: nif, nome, endereço, telefone
+

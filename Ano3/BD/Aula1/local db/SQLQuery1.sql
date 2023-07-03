@@ -1,0 +1,2 @@
+CREATE TABLE Ola (MsgID INT PRIMARY KEY, MsgSubject VARCHAR(30) NOT NULL);
+INSERT INTO Ola Values (1245, 'Ola tudo Bem');
