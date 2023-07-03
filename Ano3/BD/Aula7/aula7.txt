@@ -1,0 +1,2 @@
+7.2)
+a) Forma normal 1,apenas tem atributos atómicos e não suporta relações dentro de relações
