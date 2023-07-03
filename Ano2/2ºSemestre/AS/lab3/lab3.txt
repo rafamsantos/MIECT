@@ -1,0 +1,18 @@
+3.3_a)
+	Conceito candidato 	|	atributos candidatos
+	Projeto		|		nome, tempo de trabalho, membros
+	Módulos		|		nome,definições
+	Tarefas		|		status, prioridade,assunto, data alteração/fim
+	Ghant			| 		Tarefa
+	Membros		|		nome, papel no projeto
+	Tracker 		|		
+	Gantt			|		tarefas
+		
+
+3.3_b)
+
+Categoria Conceptual	| 	Conceito identificado(dominio da gestão)
+gestão das tarefas	|	new issue; configure,estado
+tracking do trabalho	|	issues, tracking , gantt, log time
+gestão de membros		|	adicionar, papeis diferenciados
+

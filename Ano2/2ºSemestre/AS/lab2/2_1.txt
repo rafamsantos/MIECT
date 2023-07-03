@@ -1,0 +1,21 @@
+O diagrama representa uma interação entre um cliente e um site de compras online.É designada de Associação, pois há um realção de 
+interesse entre um ator e um caso de uso.
+Cada entidade é representada por um ator, neste caso existem 5 atores:
+-> um "web costumer" que pode ser um cliente previamente registado ou um cliente novo.
+-> Service authentication
+-> Identity Provider 
+-> Credit Payment service
+-> Paypal
+
+Um cliente que já esteja registado pode visualizar os itens da loja online, realizar compras e o consequente checkout.
+Para que seja possivel visualizar os itens existe um ator para realizar a autenticação do serviço e um outro para autenticar o ator "Costumer"(identity provider).
+Para que seja possível o checkout é necessário que haja ação dos atores : Service Authentication, Identity provider , credit payment service e Paypal.
+
+
+
+Caso o cliente não esteja previamente registado apenas pode visualizar os itens e caso deseje poderá registar-se.
+Não sendo registado poderá na mesma visualizar os itens mas nao lhe será possivel fazer compras.
+
+De um ponto de vista crítico, para que seja possivel ver os itens não é necessário que haja autenticação do serviço nem é necessário que haja o ator Identity Provider.
+ 
+ 

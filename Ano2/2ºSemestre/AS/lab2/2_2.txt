@@ -1,0 +1,33 @@
+Atores:
+-Aluno
+-Professor
+-Administradores
+
+
+
+Casos de Uso:
+ALUNO
+-Ver UCs: 
+   - ver conteudo UCs
+   - submeter trabalhos
+   - realizar testes
+-Ver eventos
+-Ver e/ou enviar mensagens
+-Ver notificações
+
+PROFESSOR
+-Ver UCs: 
+   - ver conteudo UCs
+   - Adicionar conteúdo
+   - Criar notificações
+   - criar eventos
+
+-Ver e/ou enviar mensagens
+
+ADMINISTRADORES
+- Manutenção 
+- Gestão de professores e Alunos
+- Criação das UCs
+- Associação de Alunos e professores a UCs
+- Autenticação
+ 
